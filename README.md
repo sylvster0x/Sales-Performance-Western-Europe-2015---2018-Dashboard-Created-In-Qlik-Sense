@@ -20,3 +20,4 @@ Looking at the data, I came to several concrete conclusions:
 
 When I started working with this tool, I didn’t expect the experience to be so intuitive. Working with Qlik allowed me to quickly move from high-level KPI's to detailed insights and clearly see where profit is created and where it is lost.
 
+The dashboard will be attached in two formats - as a PNG and PDF files.
